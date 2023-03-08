@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/06/ajolotes-minecraft-2375589.jpg?itok=oQ4WQVC6);
+    background-size: cover;
+    background-position: center;
+    position: center;
+    cursor: pointer;
+    text-align: center;
+}
+
+#peso5{
+    border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
+h1{
+    color: white;
+}
